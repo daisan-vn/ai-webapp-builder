@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ai-web-builder",
+  "compatibility_date": "2026-05-28",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "my-mvp-db",
+      "database_id": "558a9020-0b65-4146-9ebc-3c618bcfe5a1"
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "MY_KV",
+      "id": "6559a6433daa44f880dfbfe99183f5ae"
+    }
+  ]
+}
