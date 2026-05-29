@@ -6,7 +6,8 @@
     {
       "binding": "DB",
       "database_name": "my-mvp-db",
-      "database_id": "558a9020-0b65-4146-9ebc-3c618bcfe5a1"
+      "database_id": "558a9020-0b65-4146-9ebc-3c618bcfe5a1",
+      "migrations_dir": "./migrations"
     }
   ],
   "kv_namespaces": [
